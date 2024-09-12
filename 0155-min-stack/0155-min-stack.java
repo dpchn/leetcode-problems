@@ -1,3 +1,5 @@
+//Using extra Space
+
 class MinStack {
 
     Stack<Integer> stack;
@@ -8,10 +10,9 @@ class MinStack {
     }
     
     public void push(int val) {
-           stack.push(val);
-           if(minStack.isEmpty() || minStack.peek() >= val)
-             minStack.push(val);
-               
+        stack.push(val);
+        if(minStack.isEmpty() || minStack.peek() >= val)
+            minStack.push(val);  
     }
     
     public void pop() {
