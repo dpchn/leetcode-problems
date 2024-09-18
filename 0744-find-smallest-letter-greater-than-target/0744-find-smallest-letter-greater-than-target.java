@@ -13,7 +13,6 @@ class Solution {
         while(low <=high){
             int mid = low +(high - low)/2;
             if(letters[mid]==target){
-                index = (mid+1)%letters.length;
                 low = mid+1;
             }
             if(letters[mid] <= target){
