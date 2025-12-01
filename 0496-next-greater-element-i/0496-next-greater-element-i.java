@@ -1,30 +1,30 @@
 class Solution {
-    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int len1 = nums1.length;
-        int res[] = new int[len1];
-        int c=0;
+     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        int result[] = new int[nums1.length];
         Stack<Integer> stack = new Stack();
-        for(int i=0; i< len1; i++){
-            int len2= nums2.length;
-            for(int j=0; j<len2; j++ ){
+        for(int i=nums1.length - 1; i>=0; i--){
+            for(int j=nums2.length-1; j>=0 ; j--){
                 if(nums1[i] == nums2[j]){
-                    res[c++] = findNextGElement(nums1[i], j, len2-1, nums2);
+                    if(stack.isEmpty()){
+                        result[i] = -1;
+                    }else if(stack.peek() > nums2[j]){
+                        result[i] = stack.peek();
+                    }else if(stack.peek() <= nums2[j]){
+                        while(!stack.isEmpty() && stack.peek() <=nums2[j]){
+                            stack.pop();
+                        }
+                        if(stack.isEmpty()){
+                            result[i] = -1;
+                        }else{
+                            result[i] = stack.peek();
+                        }
+                    }   
                     break;
-                }else if(j ==len2-1){
-                    res[c++]=-1;
                 }
+                stack.push(nums2[j]);
             }
         }
-        return res;
-    }
-
-    int findNextGElement(int e, int start, int end, int arr[]){
-        for(int i=start; i<=end; i++){
-            if(arr[i] > e ){
-                return arr[i];
-            }
-        }
-        return -1;
+        return result;
     }
 
 }
