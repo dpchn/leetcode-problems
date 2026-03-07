@@ -9,12 +9,9 @@ class Logger {
     public boolean shouldPrintMessage(int timestamp, String message) {
         curentTime--;
         if(map.get(message) == null || map.get(message) <= timestamp ){
-            curentTime = curentTime + timestamp;
             map.put(message, timestamp+10);
             return true;
         }
-        // curentTime = curentTime - map.get(message);
-        // map.put(message, timestamp);
         return false;
     }
 }
