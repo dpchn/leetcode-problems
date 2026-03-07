@@ -21,4 +21,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0359-logger-rate-limiter](https://github.com/dpchn/leetcode-problems/tree/main/0359-logger-rate-limiter/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0339-nested-list-weight-sum](https://github.com/dpchn/leetcode-problems/tree/main/0339-nested-list-weight-sum/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0339-nested-list-weight-sum](https://github.com/dpchn/leetcode-problems/tree/main/0339-nested-list-weight-sum/) | Medium |
 <!---LeetCode Topics End-->
