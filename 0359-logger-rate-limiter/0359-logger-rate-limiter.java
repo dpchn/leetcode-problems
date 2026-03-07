@@ -1,9 +1,8 @@
 class Logger {
 
 
-    Map<String, Integer> map;
+    Map<String, Integer> map = new HashMap();
     public Logger() {
-        map = new HashMap();
     }
     
     public boolean shouldPrintMessage(int timestamp, String message) {
