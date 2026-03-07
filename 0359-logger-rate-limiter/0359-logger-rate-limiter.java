@@ -1,13 +1,10 @@
 class Logger {
 
-    int curentTime;
     Map<String, Integer> map = new HashMap();
     public Logger() {
-        curentTime = 10;
     }
     
     public boolean shouldPrintMessage(int timestamp, String message) {
-        curentTime--;
         if(map.get(message) == null || map.get(message) <= timestamp ){
             map.put(message, timestamp+10);
             return true;
