@@ -27,9 +27,18 @@
 | ------- | ------- |
 | [0339-nested-list-weight-sum](https://github.com/dpchn/leetcode-problems/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/dpchn/leetcode-problems/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
+| [0366-find-leaves-of-binary-tree](https://github.com/dpchn/leetcode-problems/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0339-nested-list-weight-sum](https://github.com/dpchn/leetcode-problems/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/dpchn/leetcode-problems/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0366-find-leaves-of-binary-tree](https://github.com/dpchn/leetcode-problems/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0366-find-leaves-of-binary-tree](https://github.com/dpchn/leetcode-problems/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
