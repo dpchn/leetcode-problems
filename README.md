@@ -49,4 +49,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/dpchn/leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
 <!---LeetCode Topics End-->
