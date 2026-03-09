@@ -45,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/dpchn/leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
+| [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,10 +55,12 @@
 | ------- | ------- |
 | [0252-meeting-rooms](https://github.com/dpchn/leetcode-problems/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +70,7 @@
 | ------- | ------- |
 | [0252-meeting-rooms](https://github.com/dpchn/leetcode-problems/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
