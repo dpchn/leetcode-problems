@@ -41,4 +41,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0366-find-leaves-of-binary-tree](https://github.com/dpchn/leetcode-problems/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/dpchn/leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/dpchn/leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
