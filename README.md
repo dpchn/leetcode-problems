@@ -57,6 +57,7 @@
 | [0252-meeting-rooms](https://github.com/dpchn/leetcode-problems/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpchn/leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
