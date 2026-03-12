@@ -6,11 +6,13 @@
 | ------- | ------- |
 | [0243-shortest-word-distance](https://github.com/dpchn/leetcode-problems/tree/main/0243-shortest-word-distance/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dpchn/leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dpchn/leetcode-problems/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0364-nested-list-weight-sum-ii](https://github.com/dpchn/leetcode-problems/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dpchn/leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dpchn/leetcode-problems/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
