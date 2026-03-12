@@ -54,6 +54,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/dpchn/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpchn/leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0243-shortest-word-distance](https://github.com/dpchn/leetcode-problems/tree/main/0243-shortest-word-distance/) | Easy |
 | [0252-meeting-rooms](https://github.com/dpchn/leetcode-problems/tree/main/0252-meeting-rooms/) | Easy |
@@ -63,6 +64,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/dpchn/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 ## Greedy
@@ -72,6 +74,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/dpchn/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpchn/leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0252-meeting-rooms](https://github.com/dpchn/leetcode-problems/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
