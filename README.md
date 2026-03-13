@@ -21,10 +21,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0359-logger-rate-limiter](https://github.com/dpchn/leetcode-problems/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0359-logger-rate-limiter](https://github.com/dpchn/leetcode-problems/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@
 | [0252-meeting-rooms](https://github.com/dpchn/leetcode-problems/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
+| [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/dpchn/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Two Pointers
@@ -104,9 +107,14 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 <!---LeetCode Topics End-->
