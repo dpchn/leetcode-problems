@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0359-logger-rate-limiter](https://github.com/dpchn/leetcode-problems/tree/main/0359-logger-rate-limiter/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dpchn/leetcode-problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dpchn/leetcode-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/dpchn/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dpchn/leetcode-problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/dpchn/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dpchn/leetcode-problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
