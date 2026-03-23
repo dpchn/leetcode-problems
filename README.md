@@ -53,6 +53,7 @@
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/dpchn/leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
 | [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dpchn/leetcode-problems/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +122,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dpchn/leetcode-problems/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 <!---LeetCode Topics End-->
