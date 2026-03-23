@@ -68,6 +68,7 @@
 | [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 | [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/dpchn/leetcode-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/dpchn/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@
 | ------- | ------- |
 | [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/dpchn/leetcode-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
