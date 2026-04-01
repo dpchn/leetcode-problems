@@ -132,4 +132,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/dpchn/leetcode-problems/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/dpchn/leetcode-problems/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
