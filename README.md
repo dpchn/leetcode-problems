@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0243-shortest-word-distance](https://github.com/dpchn/leetcode-problems/tree/main/0243-shortest-word-distance/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dpchn/leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -146,4 +147,12 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/dpchn/leetcode-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/dpchn/leetcode-problems/tree/main/0182-duplicate-emails/) | Easy |
 | [2990-loan-types](https://github.com/dpchn/leetcode-problems/tree/main/2990-loan-types/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
