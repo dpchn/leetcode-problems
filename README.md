@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0243-shortest-word-distance](https://github.com/dpchn/leetcode-problems/tree/main/0243-shortest-word-distance/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dpchn/leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -11,6 +12,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0364-nested-list-weight-sum-ii](https://github.com/dpchn/leetcode-problems/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dpchn/leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
