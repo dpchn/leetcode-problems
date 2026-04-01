@@ -1,21 +1,23 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> list = new ArrayList();
-        create("", n,0,0, list);
-        return list;
+        List<String> result = new ArrayList();
+        generate("",n, 0, 0, result);
+        return result;
     }
 
-    void create(String parenthesis, int n, int open, int close, List<String> list){
-        if(2*n==parenthesis.length()){
-            list.add(parenthesis);
+
+    void generate(String str, int n , int open, int close, List<String> result){
+        if(open==n && n==close){
+            result.add(str);
             return;
         }
 
         if(open < n){
-            create(parenthesis+"(", n, open+1, close, list );
+            generate(str+"(", n, open+1, close, result);
         }
 
-        if(close < open)
-            create(parenthesis+")", n, open, close+1, list );
+        if(close < open){
+            generate(str+")",n, open, close+1, result);
+        }
     }
 }
