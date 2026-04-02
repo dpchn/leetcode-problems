@@ -41,12 +41,14 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/dpchn/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/dpchn/leetcode-problems/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/dpchn/leetcode-problems/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/dpchn/leetcode-problems/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/dpchn/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/dpchn/leetcode-problems/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/dpchn/leetcode-problems/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 ## Tree
@@ -76,6 +78,7 @@
 | [0056-merge-intervals](https://github.com/dpchn/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/dpchn/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dpchn/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0200-number-of-islands](https://github.com/dpchn/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpchn/leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0243-shortest-word-distance](https://github.com/dpchn/leetcode-problems/tree/main/0243-shortest-word-distance/) | Easy |
 | [0252-meeting-rooms](https://github.com/dpchn/leetcode-problems/tree/main/0252-meeting-rooms/) | Easy |
@@ -179,4 +182,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dpchn/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/dpchn/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/dpchn/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
