@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0359-logger-rate-limiter](https://github.com/dpchn/leetcode-problems/tree/main/0359-logger-rate-limiter/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dpchn/leetcode-problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dpchn/leetcode-problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dpchn/leetcode-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/dpchn/leetcode-problems/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dpchn/leetcode-problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dpchn/leetcode-problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dpchn/leetcode-problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
