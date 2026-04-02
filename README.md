@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dpchn/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0243-shortest-word-distance](https://github.com/dpchn/leetcode-problems/tree/main/0243-shortest-word-distance/) | Easy |
@@ -22,6 +23,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dpchn/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/dpchn/leetcode-problems/tree/main/0359-logger-rate-limiter/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dpchn/leetcode-problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dpchn/leetcode-problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -135,6 +137,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dpchn/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dpchn/leetcode-problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Queue
