@@ -3,8 +3,7 @@ class Solution {
         int sum=Integer.MIN_VALUE, currentSum=0;
         for(int n : nums){
             currentSum +=n;
-                        sum = Math.max(currentSum, sum);
-
+            sum = Math.max(currentSum, sum);
             if(currentSum < 0){
                 currentSum =0;
             }
