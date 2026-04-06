@@ -83,6 +83,7 @@
 | [0243-shortest-word-distance](https://github.com/dpchn/leetcode-problems/tree/main/0243-shortest-word-distance/) | Easy |
 | [0252-meeting-rooms](https://github.com/dpchn/leetcode-problems/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/dpchn/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 | [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/dpchn/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -99,6 +100,7 @@
 | [0042-trapping-rain-water](https://github.com/dpchn/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/dpchn/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/dpchn/leetcode-problems/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/dpchn/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0360-sort-transformed-array](https://github.com/dpchn/leetcode-problems/tree/main/0360-sort-transformed-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/dpchn/leetcode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -140,6 +142,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dpchn/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0362-design-hit-counter](https://github.com/dpchn/leetcode-problems/tree/main/0362-design-hit-counter/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/dpchn/leetcode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dpchn/leetcode-problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -190,4 +193,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/dpchn/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/dpchn/leetcode-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
