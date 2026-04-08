@@ -27,7 +27,6 @@ class Solution {
         }
 
         while(j< len){
-            System.out.println(k+" "+ j);
             result[k++]= nums[j]*nums[j];
             j++;
         }
