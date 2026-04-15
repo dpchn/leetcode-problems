@@ -8,9 +8,36 @@ class Solution {
         // }
         // return sum;
 
-        return optimizeSolution(height);
+        return optimizeSolutionDuplicate(height);
         
     }
+
+    int optimizeSolutionDuplicate(int[] height){
+        int left =0;
+        int right = height.length-1;
+        int leftMax=0;
+        int rightMax =0;
+        int sum =0;
+        while(left < right){
+            if(height[right] < height[left] ){
+                if(height[right] > rightMax){
+                    rightMax = height[right];
+                }else{
+                    sum +=rightMax - height[right];
+                }
+                right--;
+            }else{
+                if(height[left] > leftMax){
+                    leftMax = height[left];
+                }else{
+                    sum +=leftMax - height[left];
+                }
+                left++;
+            }
+        }
+        return sum;
+    }
+
 
 
     int optimizeSolution(int[] height){
