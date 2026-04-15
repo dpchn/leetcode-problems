@@ -8,6 +8,7 @@
 | [0005-longest-palindromic-substring](https://github.com/dpchn/leetcode-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/dpchn/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0243-shortest-word-distance](https://github.com/dpchn/leetcode-problems/tree/main/0243-shortest-word-distance/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dpchn/leetcode-problems/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dpchn/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/dpchn/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/dpchn/leetcode-problems/tree/main/0359-logger-rate-limiter/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dpchn/leetcode-problems/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dpchn/leetcode-problems/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -74,6 +76,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dpchn/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dpchn/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/dpchn/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/dpchn/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/dpchn/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/dpchn/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
@@ -111,6 +114,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/dpchn/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/dpchn/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/dpchn/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/dpchn/leetcode-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
