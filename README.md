@@ -79,6 +79,7 @@
 | [0049-group-anagrams](https://github.com/dpchn/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/dpchn/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/dpchn/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
+| [0064-minimum-path-sum](https://github.com/dpchn/leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/dpchn/leetcode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dpchn/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0200-number-of-islands](https://github.com/dpchn/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
@@ -180,6 +181,7 @@
 | [0022-generate-parentheses](https://github.com/dpchn/leetcode-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dpchn/leetcode-problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/dpchn/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/dpchn/leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dpchn/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/dpchn/leetcode-problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/dpchn/leetcode-problems/tree/main/0200-number-of-islands/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
